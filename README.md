@@ -18,4 +18,4 @@ A sleek, responsive, and mobile-friendly MikroTik RouterOS Hotspot login templat
 
 ---
 
-Maintained by **[Md. Rana](https://github.com/mdrrana)** & [FiberNox Engineering](https://fibernox.com).
+Maintained by **[mdrrana.dev](https://mdrrana.dev)** & [FiberNox Engineering](https://fibernox.com).
